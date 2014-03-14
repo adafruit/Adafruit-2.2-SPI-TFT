@@ -1,7 +1,8 @@
 Adafruit 2.2" 18-bit color TFT LCD display with microSD card breakout
 
 These are the Eagle CAD files for the Adafruit 2.2" 18-bit color TFT LCD display with microSD card breakout:
-  ----> https://www.adafruit.com/products/797
+  ----> https://www.adafruit.com/products/797 (older 220x178 HX8340BN version)
+  ----> http://www.adafruit.com/products/1480 (newer 320x240 ILI9340 version)
 
 Adafruit invests time and resources providing this open source design, please support Adafruit and open-source hardware by purchasing products from Adafruit!
 
